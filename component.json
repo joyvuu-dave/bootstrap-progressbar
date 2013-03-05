@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-progressbar",
-  "version": "0.5.1",
-  "main": ["./bootstrap-progressbar.js", "./bootstrap-progressbar.css"]
+  "version": "0.5.2",
+  "main": ["./bootstrap-progressbar.js", "./bootstrap-progressbar.css"],
   "dependencies": {
   }
 }
